@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there! 👋
+
+Welcome to my GitHub profile! Please feel free to check out some of my public repositories while I work on summarising my profile here.
 
 <!--
 **adamtupper/adamtupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
